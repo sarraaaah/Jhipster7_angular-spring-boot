@@ -1,10 +1,10 @@
 Get Started with JHipster 7.9.4
-//
-node v20.11.1
-java v16.0.2
-Angular v17.2.3
-npm v10.2.4
-mvn v3.2.5
+
+//node v20.11.1//
+//java v16.0.2//
+//Angular v17.2.3//
+//npm v10.2.4//
+//mvn v3.2.5//
 
 
 //
